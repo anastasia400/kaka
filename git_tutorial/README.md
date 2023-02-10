@@ -1,2 +1,2 @@
-# git_tutorial
+fuga:wq
 hogefuge
